@@ -1,7 +1,7 @@
 # PBO
 
 Nama Aplikasi    : Pesan Makanan
-\nPembuat Aplikasi : Rahmiyatul Hasanah YE
+Pembuat Aplikasi : Rahmiyatul Hasanah YE
 
 =========
 
